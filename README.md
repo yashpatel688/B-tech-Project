@@ -13,4 +13,4 @@ Frameworks: React.js / Vue.js (choose based on your implementation)
 Backend:
 Node.js, Express.js
 Database: MongoDB / MySQL (if applicable)
-APIs: Integrated with external APIs like IMDb, Spotify, or others for dynamic content.
+APIs: Integrated with external APIs for dynamic content.
